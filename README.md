@@ -1,3 +1,4 @@
+# Code Refactor
 # Challenge-1: Refactoring & Bux Fixes
 ## Description:
   ## For this challenge I refactored the HTML code to have semantic elements, such as (nav, main, section) and compressed some of the CSS code formatting to make it shorter. I also fixed a bug to make the navigation bar at the top of the website bring you to its designated section.
